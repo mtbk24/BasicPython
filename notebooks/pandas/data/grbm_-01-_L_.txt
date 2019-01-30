@@ -1,4 +1,4 @@
-    BXA nested sampling keep shorter 
+    BXA nested sampling 
     burst: bn080916009
     data: GBMwLAT
     model: grbm 
